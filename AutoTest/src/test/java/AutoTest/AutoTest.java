@@ -1,5 +1,3 @@
-package AutoTest;
-
 import org.junit.AfterClass;
 import org.junit.Assert;
 import org.junit.BeforeClass;
@@ -11,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.concurrent.TimeUnit;
 
-public class AutoTest {
+public class User_Login {
 
     private static WebDriver driver;
 
